@@ -1,0 +1,206 @@
+*
+{
+    margin: 0;
+    padding: 0
+}
+.head1
+{
+    background: #3b5998;
+    height: 82px;
+    width: 866;
+    border-bottom: 1px solid #000066;
+    color: white;
+    font-size: 45px;
+    font-weight: 650;
+    line-height: 92px;
+    text-indent: 270px;
+    font-family: inherit;
+    float: left
+}
+.head2
+{
+    background: #3b5998;
+    height: 82px;
+    width: 653;
+    border-bottom: 1px solid #000066;
+    color: white;
+    font-size: 14px;
+    line-height: 24px;
+    font-family: inherit;
+    float: left;
+    top: auto;
+    left: auto
+}
+.head2 input
+{
+    height: 25px
+}
+input[type="submit"]
+{
+    background: #333399;
+    border:1px solid #333399;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer
+}
+input[type="submit"]:hover
+{
+    background: #3333CC
+}
+a
+{
+    color: #AAA;
+    text-decoration: none;
+    font-size: 14px
+}
+a:hover
+{
+    text-decoration: underline
+}
+.body1
+{
+    background: #EEE;
+    top: auto;
+    width: 546;
+    float: left;
+    min-height: 562;
+    
+    
+}
+.body2
+{
+    background: #EEE;
+    top: auto;
+    float: left;
+    width: 972;
+    min-height: 562;
+    font-size: 25px;
+    font-family: monospace;
+    left: auto;
+    line-height: 25px
+}
+.body2 h2
+{
+    color: #333;
+    font-size: 43px;
+    word-spacing: -3px;
+    letter-spacing: -1px
+}
+.body2 p
+{
+    color: #666;
+    font-size: 22px;
+    word-spacing: -3px;
+    letter-spacing: -1px
+}
+.body2 input
+{
+    padding-left: 10px;
+    height: 39px;
+    font-size: 20px;
+    width: 200px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #CCC
+}
+.body2 input[type="email"]
+{
+    width: 415px
+}
+.body2 input[type="password"]
+{
+    width: 415px
+}
+.body2 p1
+{
+    color: #999;
+    font-size: 18px;
+    font-weight: bolder;
+    word-spacing: -3px;
+    letter-spacing: -1px;
+    line-height: 30px
+}
+.body2 select
+{
+    border: 1px solid #CCC;
+    height: 30px;
+    margin-left: auto;
+    margin-right: -14px
+}
+input[type="radio"]
+{
+    line-height: 30px;
+    display: inline;
+    height: 18px;
+    width: 18px;
+    margin-right: 4px
+}
+span
+{
+    font-size: 19px;
+    letter-spacing: -1px;
+    color: #444
+}
+.body2 p2
+{
+    font-size: 11px;
+    color: #777;
+    word-spacing: -1px;
+    letter-spacing: -1px;
+    line-height: 15px
+}
+.body2 a
+{
+    color: cornflowerblue;
+    text-decoration: none;
+    font-size: 12px
+}
+.body2 a:hover
+{
+    text-decoration: underline
+}
+.body2 input[type="submit"]
+{
+    height: 40px;
+    background-color: #009933;
+    font-weight: bold;
+    cursor: pointer;
+    color: white
+}
+.body2 input[type="submit"]:hover
+{
+    background: #00CC33
+}
+.body3
+{
+    font-size: 16px;
+    color: #555;
+    word-spacing: 2px;
+    letter-spacing: 0px;
+    text-align: center;
+    top: auto
+}
+.body3 div
+{
+    font-size: 16px;
+    color:cornflowerblue;
+    text-decoration: underline;
+    word-spacing: 2px;
+    cursor: pointer;
+    line-height: 100px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
